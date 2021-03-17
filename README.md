@@ -1,4 +1,4 @@
-# high_school_programming_class_1
+# Java-High_School_2012-2013
 
 This is a list of all the programs I coded and learned with when I first started programming at age 16.
 All code does compile and run.
